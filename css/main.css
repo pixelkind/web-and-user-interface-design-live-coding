@@ -6,7 +6,7 @@ main {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   max-width: 80%;
   margin: auto;
-  background-color: #FF00FF;
+  background-color: lightgray;
   color: #FFFFFF;
   padding: 1em;
 }
