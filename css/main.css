@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  max-width: 80%;
+  margin: auto;
+  background-color: #FF00FF;
+  color: #FFFFFF;
+  padding: 1em;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-family: monospace;
+}
+
+.text {
+  font-size: 1.2em;
+}
+
+.redText {
+  color: #ff0000;
+}
